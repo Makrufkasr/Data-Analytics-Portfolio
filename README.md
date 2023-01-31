@@ -1,7 +1,7 @@
 # Data Analyst Portfolio
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/109516688/215758881-9ab8fa8b-4314-4221-86d5-dd6023d5898a.jpeg" />
+  <img src="https://user-images.githubusercontent.com/109516688/215760484-88a68996-62e0-4c83-ad38-eb60eb665e54.png" />
 </p>
 
 ## 🌟 About Me
