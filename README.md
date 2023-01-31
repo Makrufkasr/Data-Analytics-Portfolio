@@ -1,7 +1,7 @@
 # DQLab Data Analyst Career Track
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/dqlab.png" />
+  <img src="https://user-images.githubusercontent.com/109516688/215758881-9ab8fa8b-4314-4221-86d5-dd6023d5898a.jpeg" />
 </p>
 
 ## 🌟 About
