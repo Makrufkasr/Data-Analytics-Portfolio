@@ -1,11 +1,11 @@
-# DQLab Data Analyst Career Track
+# Data Analyst Portfolio
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/109516688/215758881-9ab8fa8b-4314-4221-86d5-dd6023d5898a.jpeg" />
 </p>
 
-## 🌟 About
-[DQLab Data Analyst Career Track](https://academy.dqlab.id/main/track/67) membantu membangun kompetensi yang dibutuhkan untuk berkarir sebagai Junior Data Analyst. Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikemas dengan studi kasus yang mencerminkan kondisi data riil di Indonesia. Kelas Data Analyst Career Track (Python) dirancang oleh 7 ahli data, dari beragam Industri seperti Traveloka, PT. BUMA, Kompas.com, dan GOJEK.
+## 🌟 About Me
+A bachelor of industrial engineering, who really loves and always learning about business, data and analysis. Numbers are my best friend for solving problems. In this modern era, data is one of the fuels used in business to compete to be the best in their field. Knowledge of problems and how to solve problems is a much-needed skill. Analysis and decisions without a database have no strong power. By combining some of the knowledge and experience I have, I can present a better solution to a problem, so I can create something new that is more effective and efficient.
 
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/dqlab-DACT.png" /><br>
 
