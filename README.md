@@ -11,7 +11,7 @@ A bachelor of industrial engineering, who really loves and always learning about
 ## 📚 Table of Contents
 List of project :
 
-1. [Property Listing in Kuala Lumpur](#property-listing-in-kuala-lumpur)
+1. [Youtube Kenjee Perfomace Analytics](#youtube-kenjee-perfomace-analytics)
 2. [Growth and Cohort Analysis in TheLook E-Commerce](#growth-and-cohort-analysis-in-thelook-ecommerce)   
 3. [Clustering Customer Segmentation the
 Indonesian Investment platform](#clustering-customer-segmentation-the-indonesian-investment-platform)
@@ -20,7 +20,7 @@ Indonesian Investment platform](#clustering-customer-segmentation-the-indonesian
 
 <br>
 
-## Property Listing in Kuala Lumpur
+## Youtube Kenjee Perfomace Analytics
 Skill Set : Data Cleaning, Statistic, Exploratory Data Analysis, Data Visualization
 <h4>Overview</h4>
 Ken Jee is someone who is passionate about data science and sports analytics. He has been working in the data science field doing sports analytics for the last 5 years. He decided to start making YouTube videos to share his experiences and help others get into the fields of data science and sports analytics. His goal is to provide insight into the data science community, career advice, and sports-related analysis. This project aims to help Ken Jee get more revenue from his channel.
