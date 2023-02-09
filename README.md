@@ -7,6 +7,16 @@
 ## 🌟 About Me
 A bachelor of industrial engineering, who really loves and always learning about business, data and analysis. Numbers are my best friend for solving problems. In this modern era, data is one of the fuels used in business to compete to be the best in their field. Knowledge of problems and how to solve problems is a much-needed skill. Analysis and decisions without a database have no strong power. By combining some of the knowledge and experience I have, I can present a better solution to a problem, so I can create something new that is more effective and efficient.
 
+## Expertise
+1. SQL (Structured Query Languange)
+2. Python
+3. Statistcis
+4. BigQuery
+5. Looker (Data Studio)
+6. Tableau
+7. Power BI
+
+
 <!-- TABLE OF CONTENTS -->
 ## 📚 Table of Contents
 List of project :
@@ -15,8 +25,8 @@ List of project :
 2. [Growth and Cohort Analysis in TheLook E-Commerce](#growth-and-cohort-analysis-in-thelook-ecommerce)   
 3. [Clustering Customer Segmentation the
 Indonesian Investment platform](#clustering-customer-segmentation-the-indonesian-investment-platform)
-4. [Telcom Churn Analytics](#telcom-churn-analytics)
-5. [Covid Vaccinations World Progress : Reporting Dashboard](#covid-vaccinations-world-progress-:-reporting-dashboard)
+4. [Telcom Churn Analytics (Tableau)](#telcom-churn-analytics)
+5. [Covid Vaccinations World Progress (Tableau)](#covid-vaccinations-world-progress)
 
 <br>
 
@@ -98,6 +108,8 @@ As an Indonesia investment platform start up  currently focused on app-based mut
 
 ## Telcom Churn Analytics
 Skill Set : Data Viusaliztion, Tableau, Exploratory Data Analaytics.
+![image](https://user-images.githubusercontent.com/109516688/217701908-8991f8c4-4d0e-4466-9594-5692def2a309.png)
+
 <h4>Overview</h4>
 As an Indonesia investment platform start up  currently focused on app-based mutual fund investment at the end of September 2021. In the mobile app developed by the company, users can register as investor and conduct buy or sell transactions on selected mutual funds. In addition, the platform offers Robo-investing, Which allows users to invest a diversified mutual fund portfolio without hassle while considering the factors such as age, income and overall risk profile. Conduct clustering to maximize campaigns on the marketing team for new products to be launched and provide business recommendations for the analysis that has been produced.
 
@@ -120,7 +132,7 @@ As an Indonesia investment platform start up  currently focused on app-based mut
 |:----:	|:----:	|:--------------------------------:	|
 |   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz 1              	|
 
-## Covid Vaccinations World Progress : Reporting Dashboard
+## Covid Vaccinations World Progress
 Skill Set : Data Viusaliztion, Tableau, Exploratory Data Analaytics.
 <h4>Overview</h4>
 As an Indonesia investment platform start up  currently focused on app-based mutual fund investment at the end of September 2021. In the mobile app developed by the company, users can register as investor and conduct buy or sell transactions on selected mutual funds. In addition, the platform offers Robo-investing, Which allows users to invest a diversified mutual fund portfolio without hassle while considering the factors such as age, income and overall risk profile. Conduct clustering to maximize campaigns on the marketing team for new products to be launched and provide business recommendations for the analysis that has been produced.
