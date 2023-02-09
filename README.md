@@ -34,6 +34,7 @@ Indonesian Investment platform](#clustering-customer-segmentation-the-indonesian
 
 ## Youtube Kenjee Perfomace Analytics
 Skill Set : Data Cleaning, Statistic, Exploratory Data Analysis, Data Visualization
+![Desain tanpa judul (8)](https://user-images.githubusercontent.com/109516688/217714234-e3708273-ce09-4389-913e-033f39b97ad0.png)
 
 <h4>Overview</h4>
 Ken Jee is someone who is passionate about data science and sports analytics. He has been working in the data science field doing sports analytics for the last 5 years. He decided to start making YouTube videos to share his experiences and help others get into the fields of data science and sports analytics. His goal is to provide insight into the data science community, career advice, and sports-related analysis. This project aims to help Ken Jee get more revenue from his channel.
@@ -85,10 +86,12 @@ TheLook is a fictitious eCommerce clothing site developed by the Looker team. Th
 
 | Link Deck	| Code 	|               Title              	|
 |:----:	|:----:	|:--------------------------------:	|
-|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz 1              	|
+|   [🔗](https://docs.google.com/presentation/d/1kzWW-kMGigG_iTeIUQZ7LgWPh076QGTn5N7dJlnPQss/edit?usp=sharing)  	|   [📜](https://github.com/Makrufkasr/Data-Analytics-Portfolio/blob/main/project.sql)  	|              Growth and Cohort Analysis in TheLook ECommerce            	|
 
 ## Clustering customer segmentation the Indonesian investment platform
 Skill Set : K-means, Clustering analysis, Joins FunctionsData visualization, Silhouette Score.
+![Desain tanpa judul (9)](https://user-images.githubusercontent.com/109516688/217715350-628cd71d-5394-4892-9593-619a5a35aef6.png)
+
 <h4>Overview</h4>
 As an Indonesia investment platform start up  currently focused on app-based mutual fund investment at the end of September 2021. In the mobile app developed by the company, users can register as investor and conduct buy or sell transactions on selected mutual funds. In addition, the platform offers Robo-investing, Which allows users to invest a diversified mutual fund portfolio without hassle while considering the factors such as age, income and overall risk profile. Conduct clustering to maximize campaigns on the marketing team for new products to be launched and provide business recommendations for the analysis that has been produced.
 
