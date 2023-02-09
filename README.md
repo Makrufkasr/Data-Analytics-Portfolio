@@ -55,12 +55,14 @@ Ken Jee is someone who is passionate about data science and sports analytics. He
 5. Further analysis can include engagement rat
 
 
-| Link Deck	| Code 	|               Title              	|
+| Link Deck	| Dashboard 	|               Title              	|
 |:----:	|:----:	|:--------------------------------:	|
-|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz 1              	|
+|   [🔗](https://drive.google.com/file/d/1L3TKceHBAnEPLeAy7g2aeg-B9EU_6WaB/view?usp=share_link)  	|   [📜](https://public.tableau.com/app/profile/makruf.kausar/viz/GroupN-YoutubeAnalytics/Dashboard2)  	|               Youtube Perfomance Analysis              	|
 
 ## Growth and Cohort Analysis in TheLook ECommerce
 Skill Set : Standard Query Syntax, Aggregate Functions, Joins Functions, Data Type Functions, Date Format Functions, Window Functions
+![Desain tanpa judul (7)](https://user-images.githubusercontent.com/109516688/217712500-5df1458a-85db-4bcf-b9b5-cd1752cbff40.png)
+
 <h4>Overview</h4>
 TheLook is a fictitious eCommerce clothing site developed by the Looker team. The dataset contains information about customers, products, orders, logistics, web events and digital marketing campaigns. This study will show about the state of TheLook eCommerce and the customer retention rate cohort analysis..
 <h4>Methodology</h4>
