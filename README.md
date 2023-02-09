@@ -9,21 +9,19 @@ A bachelor of industrial engineering, who really loves and always learning about
 
 <!-- TABLE OF CONTENTS -->
 ## 📚 Table of Contents
+List of project :
 
-1. [Statistic and Spreadsheet](#statistic-and-spreadsheet)
-    - [Property Listing in Kuala Lumpur](#property-listing-in-kuala-lumpur)
-2. [SQL (Structured Query Language)](#sql-structured-query-language)
-    - [Growth and Cohort Analysis in TheLook E-Commerce](#growth-and-cohort-analysis-in-thelook-ecommerce)
-3. [Python](#python)
-    - [Clustering customer segmentation the
-Indonesian investment platform](#clustering-customer-segmentation-the-indonesian-investment-platform)
-4. [Data Visualization](#python)
-    - [Telcom Churn Analytics](#growth-and-cohort-analysis-in-theLook-e-commerce)
+1. [Property Listing in Kuala Lumpur](#property-listing-in-kuala-lumpur)
+2. [Growth and Cohort Analysis in TheLook E-Commerce](#growth-and-cohort-analysis-in-thelook-ecommerce)   
+3. [Clustering Customer Segmentation the
+Indonesian Investment platform](#clustering-customer-segmentation-the-indonesian-investment-platform)
+4. [Telcom Churn Analytics](#telcom-churn-analytics)
+5. [Covid Vaccinations World Progress : Reporting Dashboard](#covid-vaccinations-world-progress-:-reporting-dashboard)
+
 <br>
 
-## Statistic and Spreadsheet
+## Property Listing in Kuala Lumpur
 Skill Set : Data Cleaning, Statistic, Exploratory Data Analysis, Data Visualization
-<h3>Property Listing in Kuala Lumpur.</h3>
 <h4>Overview</h4>
 Ken Jee is someone who is passionate about data science and sports analytics. He has been working in the data science field doing sports analytics for the last 5 years. He decided to start making YouTube videos to share his experiences and help others get into the fields of data science and sports analytics. His goal is to provide insight into the data science community, career advice, and sports-related analysis. This project aims to help Ken Jee get more revenue from his channel.
 <h4>Methodology</h4>
@@ -48,9 +46,8 @@ Ken Jee is someone who is passionate about data science and sports analytics. He
 |:----:	|:----:	|:--------------------------------:	|
 |   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz 1              	|
 
-## SQL Structured Query Language
+## Growth and Cohort Analysis in TheLook ECommerce
 Skill Set : Standard Query Syntax, Aggregate Functions, Joins Functions, Data Type Functions, Date Format Functions, Window Functions
-<h3>Growth and Cohort Analysis in TheLook ECommerce.</h3>
 <h4>Overview</h4>
 TheLook is a fictitious eCommerce clothing site developed by the Looker team. The dataset contains information about customers, products, orders, logistics, web events and digital marketing campaigns. This study will show about the state of TheLook eCommerce and the customer retention rate cohort analysis..
 <h4>Methodology</h4>
@@ -75,10 +72,56 @@ TheLook is a fictitious eCommerce clothing site developed by the Looker team. Th
 |:----:	|:----:	|:--------------------------------:	|
 |   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz 1              	|
 
-## Python
+## Clustering customer segmentation the Indonesian investment platform
 Skill Set : K-means, Clustering analysis, Joins FunctionsData visualization, Silhouette Score.
-<h3>Clustering customer segmentation the
-Indonesian investment platform.</h3>
+<h4>Overview</h4>
+As an Indonesia investment platform start up  currently focused on app-based mutual fund investment at the end of September 2021. In the mobile app developed by the company, users can register as investor and conduct buy or sell transactions on selected mutual funds. In addition, the platform offers Robo-investing, Which allows users to invest a diversified mutual fund portfolio without hassle while considering the factors such as age, income and overall risk profile. Conduct clustering to maximize campaigns on the marketing team for new products to be launched and provide business recommendations for the analysis that has been produced.
+
+<h4>Methodology</h4>
+
+1. Load the dataset and cleaning the data in Python
+2. EDA and Data Visualization using Python
+3. Conduct Clustering analysis 
+4. Looking for N Cluster using Elbow Method and Silhoutte score Analysis
+5. Build K-Means clustering Model using the actual columns
+
+<h4>Result</h4>
+
+1. Starter Stock Investor, Lower segmentation is favored by Gen Z, the majority of gender is male and user occupation in the Student sector, Passive transactions to get transactions and have good passion in stock. Email Campaign : Hi, Starter stock investors!, A future with good finances is the dream of today, Let's build good finances using Product Government Bond and this fits with your character!
+2. Enthusiast Stock Investor, The middle segment is favored by Gen X, the majority are male and the users work in the Swasta , passive to transact and have sufficient passion in mutual funds. Email Campaign: Hi Enthusiast Stock Investor, let's collect your stock with our new product, government bond, with the many mutual funds you have, you can increase the income from your portfolio.
+3. Rich Stock Investor, The top segmentation is favored by Millennials, male gender and user jobs in the private sector, Top profit, frequent transactions and have a good passion in stock. Email Campaign: Hi Success Person!, You are an amazing person in managing your portfolio!. Having just a few portfolios can result in losses. By adding a government bond in your portfolio, you will reduce the risk of loss!.
+4. Campaign Recommendations: If the campaign has a limited budget, you should prioritize the Rich Stock Investor and Enthusiast Stock Investor segment, If you want a job-based campaign, prioritize private work because the majority of private jobs are in the stock investor and Enthusiast stock investor segment.
+
+| Link Deck	| Code 	|               Title              	|
+|:----:	|:----:	|:--------------------------------:	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz 1              	|
+
+## Telcom Churn Analytics
+Skill Set : Data Viusaliztion, Tableau, Exploratory Data Analaytics.
+<h4>Overview</h4>
+As an Indonesia investment platform start up  currently focused on app-based mutual fund investment at the end of September 2021. In the mobile app developed by the company, users can register as investor and conduct buy or sell transactions on selected mutual funds. In addition, the platform offers Robo-investing, Which allows users to invest a diversified mutual fund portfolio without hassle while considering the factors such as age, income and overall risk profile. Conduct clustering to maximize campaigns on the marketing team for new products to be launched and provide business recommendations for the analysis that has been produced.
+
+<h4>Methodology</h4>
+
+1. Load the dataset and cleaning the data in Python
+2. EDA and Data Visualization using Python
+3. Conduct Clustering analysis 
+4. Looking for N Cluster using Elbow Method and Silhoutte score Analysis
+5. Build K-Means clustering Model using the actual columns
+
+<h4>Result</h4>
+
+1. Starter Stock Investor, Lower segmentation is favored by Gen Z, the majority of gender is male and user occupation in the Student sector, Passive transactions to get transactions and have good passion in stock. Email Campaign : Hi, Starter stock investors!, A future with good finances is the dream of today, Let's build good finances using Product Government Bond and this fits with your character!
+2. Enthusiast Stock Investor, The middle segment is favored by Gen X, the majority are male and the users work in the Swasta , passive to transact and have sufficient passion in mutual funds. Email Campaign: Hi Enthusiast Stock Investor, let's collect your stock with our new product, government bond, with the many mutual funds you have, you can increase the income from your portfolio.
+3. Rich Stock Investor, The top segmentation is favored by Millennials, male gender and user jobs in the private sector, Top profit, frequent transactions and have a good passion in stock. Email Campaign: Hi Success Person!, You are an amazing person in managing your portfolio!. Having just a few portfolios can result in losses. By adding a government bond in your portfolio, you will reduce the risk of loss!.
+4. Campaign Recommendations: If the campaign has a limited budget, you should prioritize the Rich Stock Investor and Enthusiast Stock Investor segment, If you want a job-based campaign, prioritize private work because the majority of private jobs are in the stock investor and Enthusiast stock investor segment.
+
+| Link Deck	| Code 	|               Title              	|
+|:----:	|:----:	|:--------------------------------:	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz 1              	|
+
+## Covid Vaccinations World Progress : Reporting Dashboard
+Skill Set : Data Viusaliztion, Tableau, Exploratory Data Analaytics.
 <h4>Overview</h4>
 As an Indonesia investment platform start up  currently focused on app-based mutual fund investment at the end of September 2021. In the mobile app developed by the company, users can register as investor and conduct buy or sell transactions on selected mutual funds. In addition, the platform offers Robo-investing, Which allows users to invest a diversified mutual fund portfolio without hassle while considering the factors such as age, income and overall risk profile. Conduct clustering to maximize campaigns on the marketing team for new products to be launched and provide business recommendations for the analysis that has been produced.
 
