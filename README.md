@@ -27,7 +27,7 @@ List of project :
 Indonesian Investment platform](#clustering-customer-segmentation-the-indonesian-investment-platform)
 4. [Telcom Churn Analytics (Tableau)](#telcom-churn-analytics)
 5. [Covid Vaccinations World Progress (Tableau)](#covid-vaccinations-world-progress)
-6. [Sales Perfomance Analysis (Power BI)](#sales-perfomance-analysis)
+6. [Sales Perfomance Dashboard (Power BI)](#sales-perfomance-dashboard)
 7. [Customers reviews AirBnb (Data Studio)](#customer-reviews-airbnb)
 
 <br>
@@ -145,27 +145,16 @@ Skill Set : Data Viusaliztion, Tableau, Exploratory Data Analaytics.
 ![image](https://user-images.githubusercontent.com/109516688/217703487-2f3ef53d-c6ca-4eb8-9769-eab0848bd173.png)
 
 <h4>Overview</h4>
-As an Indonesia investment platform start up  currently focused on app-based mutual fund investment at the end of September 2021. In the mobile app developed by the company, users can register as investor and conduct buy or sell transactions on selected mutual funds. In addition, the platform offers Robo-investing, Which allows users to invest a diversified mutual fund portfolio without hassle while considering the factors such as age, income and overall risk profile. Conduct clustering to maximize campaigns on the marketing team for new products to be launched and provide business recommendations for the analysis that has been produced.
-
-<h4>Methodology</h4>
-
-1. Load the dataset and cleaning the data in Python
-2. EDA and Data Visualization using Python
-3. Conduct Clustering analysis 
-4. Looking for N Cluster using Elbow Method and Silhoutte score Analysis
-5. Build K-Means clustering Model using the actual columns
+Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus. This dashboard will give you an overview about the progress of COVID-19 around the worlds. The majority of the nations with slow vaccinations progress are from the continent of Africa, we should help them immediately!
 
 <h4>Result</h4>
 
-1. Starter Stock Investor, Lower segmentation is favored by Gen Z, the majority of gender is male and user occupation in the Student sector, Passive transactions to get transactions and have good passion in stock. Email Campaign : Hi, Starter stock investors!, A future with good finances is the dream of today, Let's build good finances using Product Government Bond and this fits with your character!
-2. Enthusiast Stock Investor, The middle segment is favored by Gen X, the majority are male and the users work in the Swasta , passive to transact and have sufficient passion in mutual funds. Email Campaign: Hi Enthusiast Stock Investor, let's collect your stock with our new product, government bond, with the many mutual funds you have, you can increase the income from your portfolio.
-3. Rich Stock Investor, The top segmentation is favored by Millennials, male gender and user jobs in the private sector, Top profit, frequent transactions and have a good passion in stock. Email Campaign: Hi Success Person!, You are an amazing person in managing your portfolio!. Having just a few portfolios can result in losses. By adding a government bond in your portfolio, you will reduce the risk of loss!.
-4. Campaign Recommendations: If the campaign has a limited budget, you should prioritize the Rich Stock Investor and Enthusiast Stock Investor segment, If you want a job-based campaign, prioritize private work because the majority of private jobs are in the stock investor and Enthusiast stock investor segment.
+Click this link below to view the full dashboard, please click the full screen icon for the best experience. Thank you!
 
-| Link Deck	| Code 	|               Title              	|
-|:----:	|:----:	|:--------------------------------:	|
-|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz 1              	|
-## Sales Perfomance Analysis
+| Link Dashboard	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [🔗](https://public.tableau.com/app/profile/makruf.kausar/viz/CovidVaccinationsWorldProgress_16693770130450/Dashboard1)   	|               Covid Vaccinations World Progress              	|
+## Sales Perfomance Dashboard
 Skill Set : Data Cleaning, Statistic, Exploratory Data Analysis, Data Visualization
 ![image](https://user-images.githubusercontent.com/109516688/217702801-5bebfaa4-6b26-4480-8737-90994cd43809.png)
 
@@ -198,26 +187,27 @@ Skill Set : Data Cleaning, Statistic, Exploratory Data Analysis, Data Visualizat
 ![image](https://user-images.githubusercontent.com/109516688/217704018-201d9879-ffd7-41b0-b7d8-fc140ac3b265.png)
 
 <h4>Overview</h4>
-Ken Jee is someone who is passionate about data science and sports analytics. He has been working in the data science field doing sports analytics for the last 5 years. He decided to start making YouTube videos to share his experiences and help others get into the fields of data science and sports analytics. His goal is to provide insight into the data science community, career advice, and sports-related analysis. This project aims to help Ken Jee get more revenue from his channel.
+Airbnb is an American company that operates an online marketplace for lodging, primarily homestays for vacation rental and tourism activities. Airbnb stakeholders wanted to know what happened to the business in Singapore in the last 12 months and asked if there were any regions need development. They want the report in the form of a dashboard.
+
+<h5>Objective</h5>
+Create an interactive dashboard that summarizes room listing, host, review, and income estimation of AirBnB Singapore
 <h4>Methodology</h4>
 
-1. Understanding YouTube metrics and algorithm
-2. Cleaning dataset using spreadsheet and Python
-3. EDA by make a channel dashboard using Tableau
-4. Main problem definition and decide objective
-5. Analysis the content by data and the quality
-6. Giving recommendation and further analysis suggestion for Ken Jee’s channel
+Asking some crucial questions to be answered by charts and graphs in Tableau and Google Data Studio:
+
+1. How many listings
+2. How many host
+3. How may listings per neighborhood group and neighborhood
+4. Top 10 listings based on total reviews given
+5. How many average numbers of reviews
+6. The average number of reviews per neighborhood group
+7. Number of listings per prie group
 
 <h4>Result</h4>
 
-1. Out of 15 video categories, we recommend to focus on Personal Experience, Trend, Job, Tips, Opinion, Collaboration, Tutorial, Series Collaboration
-2. Recommended word to use in Video title are 'Data Science', words related to content for beginner and curious-make words.
-3. It's best to upload 3-4 videos in a month, on Friday or Saturday
-4. The recommended video length is 8-10 minutes as videos with this group of duration generate maximum revenue
-5. Further analysis can include engagement rat
+And the results are in the above picture. There are numerous insights that we can generate from that dashboard alone; for instance: the country that produces the most movies, which year that has the most released movie, the actor that plays the most amount of movies, etc. We can also filter the graphs if we just want to see a certain genre, and this will help generate other insights that were not mentioned before
 
 
-| Link Deck	| Code 	|               Title              	|
-|:----:	|:----:	|:--------------------------------:	|
-|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz 1              	|
-
+| Link Dashboard	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [🔗](https://lookerstudio.google.com/s/kuweziNmQVM)  	|               Customer reviews AirBnb              	|
