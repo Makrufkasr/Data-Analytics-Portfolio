@@ -27,11 +27,14 @@ List of project :
 Indonesian Investment platform](#clustering-customer-segmentation-the-indonesian-investment-platform)
 4. [Telcom Churn Analytics (Tableau)](#telcom-churn-analytics)
 5. [Covid Vaccinations World Progress (Tableau)](#covid-vaccinations-world-progress)
+6. [Sales Perfomance Analysis (Power BI)](#sales-perfomance-analysis)
+7. [Customers reviews AirBnb (Data Studio)](#customer-reviews-airbnb)
 
 <br>
 
 ## Youtube Kenjee Perfomace Analytics
 Skill Set : Data Cleaning, Statistic, Exploratory Data Analysis, Data Visualization
+
 <h4>Overview</h4>
 Ken Jee is someone who is passionate about data science and sports analytics. He has been working in the data science field doing sports analytics for the last 5 years. He decided to start making YouTube videos to share his experiences and help others get into the fields of data science and sports analytics. His goal is to provide insight into the data science community, career advice, and sports-related analysis. This project aims to help Ken Jee get more revenue from his channel.
 <h4>Methodology</h4>
@@ -134,6 +137,8 @@ As an Indonesia investment platform start up  currently focused on app-based mut
 
 ## Covid Vaccinations World Progress
 Skill Set : Data Viusaliztion, Tableau, Exploratory Data Analaytics.
+![image](https://user-images.githubusercontent.com/109516688/217703487-2f3ef53d-c6ca-4eb8-9769-eab0848bd173.png)
+
 <h4>Overview</h4>
 As an Indonesia investment platform start up  currently focused on app-based mutual fund investment at the end of September 2021. In the mobile app developed by the company, users can register as investor and conduct buy or sell transactions on selected mutual funds. In addition, the platform offers Robo-investing, Which allows users to invest a diversified mutual fund portfolio without hassle while considering the factors such as age, income and overall risk profile. Conduct clustering to maximize campaigns on the marketing team for new products to be launched and provide business recommendations for the analysis that has been produced.
 
@@ -155,3 +160,59 @@ As an Indonesia investment platform start up  currently focused on app-based mut
 | Link Deck	| Code 	|               Title              	|
 |:----:	|:----:	|:--------------------------------:	|
 |   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz 1              	|
+## Sales Perfomance Analysis
+Skill Set : Data Cleaning, Statistic, Exploratory Data Analysis, Data Visualization
+![image](https://user-images.githubusercontent.com/109516688/217702801-5bebfaa4-6b26-4480-8737-90994cd43809.png)
+
+<h4>Overview</h4>
+Ken Jee is someone who is passionate about data science and sports analytics. He has been working in the data science field doing sports analytics for the last 5 years. He decided to start making YouTube videos to share his experiences and help others get into the fields of data science and sports analytics. His goal is to provide insight into the data science community, career advice, and sports-related analysis. This project aims to help Ken Jee get more revenue from his channel.
+<h4>Methodology</h4>
+
+1. Understanding YouTube metrics and algorithm
+2. Cleaning dataset using spreadsheet and Python
+3. EDA by make a channel dashboard using Tableau
+4. Main problem definition and decide objective
+5. Analysis the content by data and the quality
+6. Giving recommendation and further analysis suggestion for Ken Jee’s channel
+
+<h4>Result</h4>
+
+1. Out of 15 video categories, we recommend to focus on Personal Experience, Trend, Job, Tips, Opinion, Collaboration, Tutorial, Series Collaboration
+2. Recommended word to use in Video title are 'Data Science', words related to content for beginner and curious-make words.
+3. It's best to upload 3-4 videos in a month, on Friday or Saturday
+4. The recommended video length is 8-10 minutes as videos with this group of duration generate maximum revenue
+5. Further analysis can include engagement rat
+
+
+| Link Deck	| Code 	|               Title              	|
+|:----:	|:----:	|:--------------------------------:	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz 1              	|
+
+## Customer Reviews AirBnB
+Skill Set : Data Cleaning, Statistic, Exploratory Data Analysis, Data Visualization
+![image](https://user-images.githubusercontent.com/109516688/217704018-201d9879-ffd7-41b0-b7d8-fc140ac3b265.png)
+
+<h4>Overview</h4>
+Ken Jee is someone who is passionate about data science and sports analytics. He has been working in the data science field doing sports analytics for the last 5 years. He decided to start making YouTube videos to share his experiences and help others get into the fields of data science and sports analytics. His goal is to provide insight into the data science community, career advice, and sports-related analysis. This project aims to help Ken Jee get more revenue from his channel.
+<h4>Methodology</h4>
+
+1. Understanding YouTube metrics and algorithm
+2. Cleaning dataset using spreadsheet and Python
+3. EDA by make a channel dashboard using Tableau
+4. Main problem definition and decide objective
+5. Analysis the content by data and the quality
+6. Giving recommendation and further analysis suggestion for Ken Jee’s channel
+
+<h4>Result</h4>
+
+1. Out of 15 video categories, we recommend to focus on Personal Experience, Trend, Job, Tips, Opinion, Collaboration, Tutorial, Series Collaboration
+2. Recommended word to use in Video title are 'Data Science', words related to content for beginner and curious-make words.
+3. It's best to upload 3-4 videos in a month, on Friday or Saturday
+4. The recommended video length is 8-10 minutes as videos with this group of duration generate maximum revenue
+5. Further analysis can include engagement rat
+
+
+| Link Deck	| Code 	|               Title              	|
+|:----:	|:----:	|:--------------------------------:	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz 1              	|
+
