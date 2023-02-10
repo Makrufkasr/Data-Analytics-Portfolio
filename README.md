@@ -132,7 +132,7 @@ RFM stands for Recency,Frequency and Monetary
 
 * [Link Project](https://archive.ics.uci.edu/ml/datasets/online+retail)
 ## Telcom Churn Analytics
-Skill Set : Data Viusaliztion, Tableau, Exploratory Data Analaytics.
+Skill Set : Data Viusaliztion, Tableau, Exploratory Data Analytics.
 ![image](https://user-images.githubusercontent.com/109516688/217701908-8991f8c4-4d0e-4466-9594-5692def2a309.png)
 <h4>Overview</h4>
 Airbnb is an American company that operates an online marketplace for lodging, primarily homestays for vacation rental and tourism activities. Airbnb stakeholders wanted to know what happened to the business in Singapore in the last 12 months and asked if there were any regions need development. They want the report in the form of a dashboard.
