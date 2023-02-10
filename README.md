@@ -158,7 +158,7 @@ And the results are in the above picture. There are numerous insights that we ca
 
 | Link Dashboard	|               Title              	|
 |:----:	|:--------------------------------:	|
-|   [🔗]([https://lookerstudio.google.com/s/kuweziNmQVM](https://public.tableau.com/app/profile/makruf.kausar/viz/TelcomChurnAnalytics/Overview))  	|               Customer reviews AirBnb              	|
+|   [🔗](https://public.tableau.com/app/profile/makruf.kausar/viz/TelcomChurnAnalytics/Overview) 	|               Telcom Churn Analytics             	|
 
 ## Covid Vaccinations World Progress
 Skill Set : Data Viusaliztion, Tableau, Exploratory Data Analaytics.
@@ -173,7 +173,7 @@ Click this link below to view the full dashboard, please click the full screen i
 
 | Link Dashboard	|               Title              	|
 |:----:	|:--------------------------------:	|
-|   [🔗](https://public.tableau.com/app/profile/makruf.kausar/viz/CovidVaccinationsWorldProgress_16693770130450/Dashboard1)   	|               Covid Vaccinations World Progress              	|
+|   [🔗](https://public.tableau.com/app/profile/makruf.kausar/viz/TelcomChurnAnalytics/Overview)   	|               Covid Vaccinations World Progress              	|
 ## Sales Perfomance Dashboard
 Skill Set : Data Cleaning, Statistic, Exploratory Data Analysis, Data Visualization
 ![image](https://user-images.githubusercontent.com/109516688/217702801-5bebfaa4-6b26-4480-8737-90994cd43809.png)
