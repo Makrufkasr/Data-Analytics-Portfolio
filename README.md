@@ -84,7 +84,7 @@ As an Indonesia investment platform start up  currently focused on app-based mut
 
 | Link Deck	| Code 	|               Title              	|
 |:----:	|:----:	|:--------------------------------:	|
-|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz 1              	|
+|   [🔗](https://docs.google.com/presentation/d/1yazXdmaMAEnoTmk9ZexhGK8h43xdWn3WJ3Vr5mw-iyg/edit?usp=sharing)  	|   [📜](https://github.com/Makrufkasr/Data-Analytics-Portfolio/blob/main/Clustering_segmentation_Analysis_.ipynb)  	|               Clustering Segmentation Analysis             	|
 
 ## Youtube Kenjee Perfomace Analytics
 Skill Set : Data Cleaning, Statistic, Exploratory Data Analysis, Data Visualization
