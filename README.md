@@ -21,44 +21,16 @@ A bachelor of industrial engineering, who really loves and always learning about
 ## 📚 Table of Contents
 List of project :
 
-1. [Youtube Kenjee Perfomace Analytics](#youtube-kenjee-perfomace-analytics)
-2. [Growth and Cohort Analysis in TheLook E-Commerce](#growth-and-cohort-analysis-in-thelook-ecommerce)   
-3. [Clustering Customer Segmentation the
-Indonesian Investment platform](#clustering-customer-segmentation-the-indonesian-investment-platform)
+1. [Growth and Cohort Analysis in TheLook E-Commerce](#growth-and-cohort-analysis-in-thelook-ecommerce) 
+2. [Clustering Customer Segmentation the Indonesian Investment Platform](#clustering-customer-segmentation-the-indonesian-investment-platform)
+3. [Youtube Kenjee Perfomace Analytics](#youtube-kenjee-perfomace-analytics)
+4. [Customer Segmentation using RFM Analysis](customer-segmentation-using-rfm-analysis)
 4. [Telcom Churn Analytics (Tableau)](#telcom-churn-analytics)
 5. [Covid Vaccinations World Progress (Tableau)](#covid-vaccinations-world-progress)
 6. [Sales Perfomance Dashboard (Power BI)](#sales-perfomance-dashboard)
 7. [Customers reviews AirBnb (Data Studio)](#customer-reviews-airbnb)
 
 <br>
-
-## Youtube Kenjee Perfomace Analytics
-Skill Set : Data Cleaning, Statistic, Exploratory Data Analysis, Data Visualization
-![Desain tanpa judul (8)](https://user-images.githubusercontent.com/109516688/217714234-e3708273-ce09-4389-913e-033f39b97ad0.png)
-
-<h4>Overview</h4>
-Ken Jee is someone who is passionate about data science and sports analytics. He has been working in the data science field doing sports analytics for the last 5 years. He decided to start making YouTube videos to share his experiences and help others get into the fields of data science and sports analytics. His goal is to provide insight into the data science community, career advice, and sports-related analysis. This project aims to help Ken Jee get more revenue from his channel.
-<h4>Methodology</h4>
-
-1. Understanding YouTube metrics and algorithm
-2. Cleaning dataset using spreadsheet and Python
-3. EDA by make a channel dashboard using Tableau
-4. Main problem definition and decide objective
-5. Analysis the content by data and the quality
-6. Giving recommendation and further analysis suggestion for Ken Jee’s channel
-
-<h4>Result</h4>
-
-1. Out of 15 video categories, we recommend to focus on Personal Experience, Trend, Job, Tips, Opinion, Collaboration, Tutorial, Series Collaboration
-2. Recommended word to use in Video title are 'Data Science', words related to content for beginner and curious-make words.
-3. It's best to upload 3-4 videos in a month, on Friday or Saturday
-4. The recommended video length is 8-10 minutes as videos with this group of duration generate maximum revenue
-5. Further analysis can include engagement rat
-
-
-| Link Deck	| Dashboard 	|               Title              	|
-|:----:	|:----:	|:--------------------------------:	|
-|   [🔗](https://drive.google.com/file/d/1L3TKceHBAnEPLeAy7g2aeg-B9EU_6WaB/view?usp=share_link)  	|   [📜](https://public.tableau.com/app/profile/makruf.kausar/viz/GroupN-YoutubeAnalytics/Dashboard2)  	|               Youtube Perfomance Analysis              	|
 
 ## Growth and Cohort Analysis in TheLook ECommerce
 Skill Set : Standard Query Syntax, Aggregate Functions, Joins Functions, Data Type Functions, Date Format Functions, Window Functions
@@ -114,6 +86,51 @@ As an Indonesia investment platform start up  currently focused on app-based mut
 |:----:	|:----:	|:--------------------------------:	|
 |   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz 1              	|
 
+## Youtube Kenjee Perfomace Analytics
+Skill Set : Data Cleaning, Statistic, Exploratory Data Analysis, Data Visualization
+![Desain tanpa judul (8)](https://user-images.githubusercontent.com/109516688/217714234-e3708273-ce09-4389-913e-033f39b97ad0.png)
+
+<h4>Overview</h4>
+Ken Jee is someone who is passionate about data science and sports analytics. He has been working in the data science field doing sports analytics for the last 5 years. He decided to start making YouTube videos to share his experiences and help others get into the fields of data science and sports analytics. His goal is to provide insight into the data science community, career advice, and sports-related analysis. This project aims to help Ken Jee get more revenue from his channel.
+<h4>Methodology</h4>
+
+1. Understanding YouTube metrics and algorithm
+2. Cleaning dataset using spreadsheet and Python
+3. EDA by make a channel dashboard using Tableau
+4. Main problem definition and decide objective
+5. Analysis the content by data and the quality
+6. Giving recommendation and further analysis suggestion for Ken Jee’s channel
+
+<h4>Result</h4>
+
+1. Out of 15 video categories, we recommend to focus on Personal Experience, Trend, Job, Tips, Opinion, Collaboration, Tutorial, Series Collaboration
+2. Recommended word to use in Video title are 'Data Science', words related to content for beginner and curious-make words.
+3. It's best to upload 3-4 videos in a month, on Friday or Saturday
+4. The recommended video length is 8-10 minutes as videos with this group of duration generate maximum revenue
+5. Further analysis can include engagement rate
+
+
+| Link Deck	| Dashboard 	|               Title              	|
+|:----:	|:----:	|:--------------------------------:	|
+|   [🔗](https://drive.google.com/file/d/1L3TKceHBAnEPLeAy7g2aeg-B9EU_6WaB/view?usp=share_link)  	|   [📜](https://public.tableau.com/app/profile/makruf.kausar/viz/GroupN-YoutubeAnalytics/Dashboard2)  	|               Youtube Perfomance Analysis              	|
+
+# Customer Segmentation using RFM Analysis
+
+![2](https://user-images.githubusercontent.com/109516688/194799117-c9766bd6-6750-4312-8172-1b0196f56f5a.jpg)
+
+In this project We segmented our customers using RFM Analysis.
+
+RFM stands for Recency,Frequency and Monetary
+
+* [Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail)
+
+**Recency**: How much time has elapsed since a customer’s last activity or transaction with the brand? Activity is usually a purchase, although variations are sometimes used, e.g., the last visit to a website or use of a mobile app. In most cases, the more recently a customer has interacted or transacted with a brand, the more likely that customer will be responsive to communications from the brand.
+
+**Frequency**: How often has a customer transacted or interacted with the brand during a particular period of time? Clearly, customers with frequent activities are more engaged, and probably more loyal, than customers who rarely do so. And one-time-only customers are in a class of their own.
+
+**Monetary**: Also referred to as “monetary value,” this factor reflects how much a customer has spent with the brand during a particular period of time. Big spenders should usually be treated differently than customers who spend little. Looking at monetary divided by frequency indicates the average purchase amount – an important secondary factor to consider when segmenting customers.
+
+* [Link Project](https://archive.ics.uci.edu/ml/datasets/online+retail)
 ## Telcom Churn Analytics
 Skill Set : Data Viusaliztion, Tableau, Exploratory Data Analaytics.
 ![image](https://user-images.githubusercontent.com/109516688/217701908-8991f8c4-4d0e-4466-9594-5692def2a309.png)
