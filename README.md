@@ -195,9 +195,9 @@ Ken Jee is someone who is passionate about data science and sports analytics. He
 5. Further analysis can include engagement rat
 
 
-| Link Deck	| Code 	|               Title              	|
-|:----:	|:----:	|:--------------------------------:	|
-|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|   [📜](https://github.com/kevinadhiguna/dqlab-career-track/blob/master/Python%20for%20Data%20Professional%20Beginner/Part%201/0.quiz-1.png)  	|               Quiz 1              	|
+| Link Power BI	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|              Sales Perfomance Dashboard           	|
 
 ## Customer Reviews AirBnB
 Skill Set : Data Cleaning, Statistic, Exploratory Data Analysis, Data Visualization
