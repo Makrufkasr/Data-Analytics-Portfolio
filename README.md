@@ -197,7 +197,7 @@ Ken Jee is someone who is passionate about data science and sports analytics. He
 
 | Link Power BI	|               Title              	|
 |:----:	|:--------------------------------:	|
-|   [🔗](https://academy.dqlab.id/main/livecode/157/283/1245)  	|              Sales Perfomance Dashboard           	|
+|   [🔗](https://github.com/Makrufkasr/Data-Analytics-Portfolio/blob/main/Sales%20dashboard.pbix?raw=true)  	|              Sales Perfomance Dashboard           	|
 
 ## Customer Reviews AirBnB
 Skill Set : Data Cleaning, Statistic, Exploratory Data Analysis, Data Visualization
