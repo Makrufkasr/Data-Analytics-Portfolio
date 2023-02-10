@@ -223,11 +223,14 @@ Asking some crucial questions to be answered by charts and graphs in Tableau and
 6. The average number of reviews per neighborhood group
 7. Number of listings per prie group
 
-<h4>Result</h4>
+<h4>Insight</h4>
 
-And the results are in the above picture. There are numerous insights that we can generate from that dashboard alone; for instance: the country that produces the most movies, which year that has the most released movie, the actor that plays the most amount of movies, etc. We can also filter the graphs if we just want to see a certain genre, and this will help generate other insights that were not mentioned before
+As shown in the dashboard below, we got information here:
+1. Currently, there are 4220 room listings on Airbnb Singapore. Most of them are private rooms and entire homes/apartments. In addition, the central region became the most populated one (3386 listings). And Kallang has the highest number of listings (543 listings).
+2. Currently, there are 1127 unique hosts. Around 63% of them are single-listing.
+In the last 12 months, Airbnb Singapore has gained 4121 reviews in total. Out of all room listings, around 69% of them meet our target number of reviews.
+3. The total estimation of our income is 3501394 local currency. Focusing on the high-income group, we found that they mainly come from the Central Region and don’t have high daily prices. 
 
-
-| Link Dashboard	|               Title              	|
-|:----:	|:--------------------------------:	|
-|   [🔗](https://lookerstudio.google.com/s/kuweziNmQVM)  	|               Customer reviews AirBnb              	|
+| Link Dashboard Data Studio	| Link Dashboard	Tableau|               Title              	|
+|:----:	|:----:	|:--------------------------------:	|
+|   [🔗](https://lookerstudio.google.com/s/kuweziNmQVM)  	|   [🔗](https://public.tableau.com/app/profile/makruf.kausar/viz/Makrufkausar-airbnb/Dashboard1)  	|               Customer reviews AirBnb              	|
