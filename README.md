@@ -133,27 +133,32 @@ RFM stands for Recency,Frequency and Monetary
 * [Link Project](https://archive.ics.uci.edu/ml/datasets/online+retail)
 ## Telcom Churn Analytics
 Skill Set : Data Viusaliztion, Tableau, Exploratory Data Analytics.
-![image](https://user-images.githubusercontent.com/109516688/217701908-8991f8c4-4d0e-4466-9594-5692def2a309.png)
+![Desain tanpa judul (10)](https://user-images.githubusercontent.com/109516688/218933557-75661699-bca7-4bb2-8b75-f3b431a2e209.png)
+
 <h4>Overview</h4>
-Airbnb is an American company that operates an online marketplace for lodging, primarily homestays for vacation rental and tourism activities. Airbnb stakeholders wanted to know what happened to the business in Singapore in the last 12 months and asked if there were any regions need development. They want the report in the form of a dashboard.
+Telcom U is an American company that operates an Telecomunication Company, Its main product is in the form of data quotas of various types. Telcom U stakeholders  want the report analyze customer churn in the form of a dashboard.
+
 
 <h5>Objective</h5>
-Create an interactive dashboard that summarizes room listing, host, review, and income estimation of AirBnB Singapore
+In this case, I'll investigate a dataset from an example telecom company called Databel and analyze their churn rates. Analyzing churn doesn’t just mean knowing what the churn rate is: it’s also about figuring out why customers are churning at the rate they are, and how to reduce churn.
 <h4>Methodology</h4>
+Asking some crucial questions to be answered by charts and graphs in Tableau :
 
-Asking some crucial questions to be answered by charts and graphs in Tableau and Google Data Studio:
-
-1. How many listings
-2. How many host
-3. How may listings per neighborhood group and neighborhood
-4. Top 10 listings based on total reviews given
-5. How many average numbers of reviews
-6. The average number of reviews per neighborhood group
-7. Number of listings per prie group
+1. How many number of customer 
+2. How many number of customer churn
+3. How many churn rate
+4. Where Location the most of churn rate?
+5. How many customer churn by age?
+6. How condition each product towards customer churn
+7. Number of churn by payment method and contract type
 
 <h4>Result</h4>
 
-And the results are in the above picture. There are numerous insights that we can generate from that dashboard alone; for instance: the country that produces the most movies, which year that has the most released movie, the actor that plays the most amount of movies, etc. We can also filter the graphs if we just want to see a certain genre, and this will help generate other insights that were not mentioned before
+1. The churn rate for Databel is ~27%. 
+2. ~45% of the reasons why customers churn is related to competitors.
+3. The churn rate in California is abnormally high (>60%).
+4. Discovered the churn rate for customers who pay for an international plan, but don't call internationally is skyhigh. Recommdation to Contact customers who are an on an international plan but have not called internationally and propose them to downgrade their plan.
+5. Further analysis and create model for predicting churn
 
 
 | Link Dashboard	|               Title              	|
@@ -195,7 +200,7 @@ Ken Jee is someone who is passionate about data science and sports analytics. He
 2. Recommended word to use in Video title are 'Data Science', words related to content for beginner and curious-make words.
 3. It's best to upload 3-4 videos in a month, on Friday or Saturday
 4. The recommended video length is 8-10 minutes as videos with this group of duration generate maximum revenue
-5. Further analysis can include engagement rat
+5. Further analysis can include engagement rate
 
 
 | Link Power BI	|               Title              	|
