@@ -130,7 +130,7 @@ RFM stands for Recency,Frequency and Monetary
 
 **Monetary**: Also referred to as “monetary value,” this factor reflects how much a customer has spent with the brand during a particular period of time. Big spenders should usually be treated differently than customers who spend little. Looking at monetary divided by frequency indicates the average purchase amount – an important secondary factor to consider when segmenting customers.
 
-* [Link Project](https://archive.ics.uci.edu/ml/datasets/online+retail)
+* [Link Project](https://github.com/Makrufkasr/Data-Analytics-Portfolio/blob/main/Customer_Segmentation_using_RFM_Analysis_.ipynb)
 ## Telcom Churn Analytics
 Skill Set : Data Viusaliztion, Tableau, Exploratory Data Analytics.
 ![Desain tanpa judul (10)](https://user-images.githubusercontent.com/109516688/218933557-75661699-bca7-4bb2-8b75-f3b431a2e209.png)
