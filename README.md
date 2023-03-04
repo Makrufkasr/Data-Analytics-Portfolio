@@ -10,7 +10,7 @@ A bachelor of industrial engineering, who really loves and always learning about
 ## Expertise
 1. SQL (Structured Query Languange)
 2. Python
-3. Statistcis
+3. Statistics
 4. BigQuery
 5. Looker (Data Studio)
 6. Tableau
