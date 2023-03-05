@@ -1,0 +1,6 @@
+SELECT 
+DATE(transactions_timestamps) date,
+status,
+ROUND(SUM(total_amount)/COUNT(transactions_id),0)AOV
+FROM `da-labs-b4-ecommerce.b4_ecommerce_dataset.transactions`
+GROUP BY 1,2
