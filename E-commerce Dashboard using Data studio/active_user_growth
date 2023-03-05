@@ -1,0 +1,12 @@
+WITH t_visit AS 
+(
+  SELECT 
+  DATE(DATE_TRUNC(visits_timestamps, MONTH)) date_trx,
+  COUNT(DISTINCT user_id) visit
+  FROM `da-labs-b4-ecommerce.b4_ecommerce_dataset.sessions`
+  GROUP BY 1
+)
+SELECT *,
+  LAG(visit)OVER(order by date_trx asc) last_month
+FROM t_visit
+ORDER by 1
