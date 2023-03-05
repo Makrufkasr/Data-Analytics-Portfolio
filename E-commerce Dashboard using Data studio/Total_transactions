@@ -1,0 +1,6 @@
+SELECT 
+DATE(transactions_timestamps) date_trx,
+status,
+SUM(total_amount) revenue
+FROM `da-labs-b4-ecommerce.b4_ecommerce_dataset.transactions`
+GROUP BY 1,2
