@@ -33,7 +33,7 @@ List of project :
 
 <br>
 
-## Developing Support Dashboard For Business Performance
+## Developing Support Dashboard For Business Performance(On-going)
 Skill Set : Data Studio(Looker), Big Query, SQL (Standard Query Syntax, Aggregate Functions, Joins Functions, Data Type Functions, Date Format Functions, Window Functions)
 ![image](https://user-images.githubusercontent.com/109516688/222958617-cf3303b7-f223-4b10-9de1-f5e0e800b3bd.png)
 
