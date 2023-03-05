@@ -12,25 +12,58 @@ A bachelor of industrial engineering, who really loves and always learning about
 2. Python
 3. Statistics
 4. BigQuery
+5. PostgreSQL
 5. Looker (Data Studio)
 6. Tableau
 7. Power BI
-
 
 <!-- TABLE OF CONTENTS -->
 ## 📚 Table of Contents
 List of project :
 
-1. [Growth and Cohort Analysis in TheLook E-Commerce](#growth-and-cohort-analysis-in-thelook-ecommerce) 
-2. [Clustering Customer Segmentation the Indonesian Investment Platform](#clustering-customer-segmentation-the-indonesian-investment-platform)
-3. [Youtube Kenjee Perfomace Analytics](#youtube-kenjee-perfomace-analytics)
-4. [Customer Segmentation using RFM Analysis](customer-segmentation-using-rfm-analysis)
-4. [Telcom Churn Analytics (Tableau)](#telcom-churn-analytics)
-5. [Covid Vaccinations World Progress (Tableau)](#covid-vaccinations-world-progress)
-6. [Sales Perfomance Dashboard (Power BI)](#sales-perfomance-dashboard)
-7. [Customers reviews AirBnb (Data Studio)](#customer-reviews-airbnb)
+1. [Developing Support Dashboard For Business Performance](#developing-support-dashboard-for-business-performance) 
+2. [Growth and Cohort Analysis in TheLook E-Commerce](#growth-and-cohort-analysis-in-thelook-ecommerce) 
+3. [Clustering Customer Segmentation the Indonesian Investment Platform](#clustering-customer-segmentation-the-indonesian-investment-platform)
+4. [Youtube Kenjee Perfomace Analytics](#youtube-kenjee-perfomace-analytics)
+5. [Customer Segmentation using RFM Analysis](customer-segmentation-using-rfm-analysis)
+6. [Telcom Churn Analytics (Tableau)](#telcom-churn-analytics)
+7. [Covid Vaccinations World Progress (Tableau)](#covid-vaccinations-world-progress)
+8. [Sales Perfomance Dashboard (Power BI)](#sales-perfomance-dashboard)
+9. [Customers reviews AirBnb (Data Studio)](#customer-reviews-airbnb)
 
 <br>
+
+## Developing Support Dashboard For Business Performance
+Skill Set : Data Studio(Looker), Big Query, SQL (Standard Query Syntax, Aggregate Functions, Joins Functions, Data Type Functions, Date Format Functions, Window Functions)
+![image](https://user-images.githubusercontent.com/109516688/222958617-cf3303b7-f223-4b10-9de1-f5e0e800b3bd.png)
+
+<h4>Project Objectives</h4>
+The company asked us to analyze data and provide business recommendations based on business process data that has been running from 2020-2021 to be able to get an improvement in 2023, To fulfill this, we as data analysts are asked to create dashboards to monitor Key Performance Indicators for the Executive, Marketing and Operational sections.
+<h4>Methodology</h4>
+
+1. Define user need
+   * CEO = Monitor Overall business performance of company
+   * Marketing Manager = Analyze, Evaluate, And Generate new apporach to meet the business target(Revenue)
+   * Product Manager Daily Dashboard = Gain Information regarding smallest level of detai about ouur business performance
+2. Define metrics for each user
+3. Create query for metrics
+4. Mockup Dashboard Design
+5. Applicated on BI Tools
+   
+<h4>Result</h4>
+
+1. The customer from Jan and Feb 2019 group have some months with no repurchase. It probably because they are the first user who trying our apps and much of them are dissatisfied with our product launching.
+2. There is a significant drop in the first month more than 95%. This may because customers have terrible experience at the first time.
+3. TheLook loyal customer rate is between 3-4%.
+4. The cohort size show that the user is growing month to month, from 30 total user in Jan 2019, to 5892 users in June 2022. This is showed that TheLook campaign event was successful to make higher impressions and get new users over time.
+5. The retention for the first quarter are also getting better and better. Especially in 2022, the retention is higher than 6%. This is showing that TheLook are able to solving the first time experience issue.
+6. But, there is a decreasing retention rate from the last month campaign. It may show that the campaign/ events from the last month are ineffective or having worse performance than previous campaign. Thus, TheLook better not use the last campaign for the next month
+
+
+| Link Deck	| Code 	|               Title              	|
+|:----:	|:----:	|:--------------------------------:	|
+|   [🔗](https://docs.google.com/presentation/d/1kzWW-kMGigG_iTeIUQZ7LgWPh076QGTn5N7dJlnPQss/edit?usp=sharing)  	|   [📜](https://github.com/Makrufkasr/Data-Analytics-Portfolio/blob/main/project.sql)  	|             E-Commerce Dashboaord           	|
+
 
 ## Growth and Cohort Analysis in TheLook ECommerce
 Skill Set : Standard Query Syntax, Aggregate Functions, Joins Functions, Data Type Functions, Date Format Functions, Window Functions
