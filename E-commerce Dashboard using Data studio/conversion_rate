@@ -1,0 +1,27 @@
+WITH t_visit as 
+(
+  SELECT
+  DATE(visits_timestamps) AS date,
+  COUNT(sessions_id) as total_visit
+FROM `da-labs-b4-ecommerce.b4_ecommerce_dataset.sessions`
+GROUP BY 1
+ORDER BY 1
+),
+t_transactions as 
+(
+  SELECT
+  DATE(transactions_timestamps) AS date,
+  COUNT(transactions_id)as total_transactions
+  FROM `da-labs-b4-ecommerce.b4_ecommerce_dataset.transactions`
+  GROUP BY 1
+  ORDER BY 1
+)
+SELECT
+  t_visit.date,
+  t_visit.total_visit,
+  t_transactions.total_transactions,
+  (t_transactions.total_transactions/ t_visit.total_visit)/100 conversion_rate,
+FROM t_visit
+LEFT JOIN t_transactions
+ON t_visit.date = t_transactions.date
+ORDER BY 1
