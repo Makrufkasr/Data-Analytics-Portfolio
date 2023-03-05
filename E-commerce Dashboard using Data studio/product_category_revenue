@@ -1,0 +1,17 @@
+WITH t_revenue AS (
+SELECT 
+DATE(DATE_TRUNC(transactions_timestamps, MONTH)) date_trx,
+product_category,
+status,
+SUM(product_amount) revenue
+FROM `da-labs-b4-ecommerce.b4_ecommerce_dataset.transaction_items` a
+LEFT JOIN`da-labs-b4-ecommerce.b4_ecommerce_dataset.transactions` b
+on a.transactions_id =b.transactions_id
+LEFT JOIN `da-labs-b4-ecommerce.b4_ecommerce_dataset.products`c
+ON a.product_id = c.product_id
+GROUP BY 1,2,3
+)
+SELECT *,
+LAG(revenue)OVER(partition by product_category order by date_trx asc) next_month
+FROM t_revenue
+order by 2,1
