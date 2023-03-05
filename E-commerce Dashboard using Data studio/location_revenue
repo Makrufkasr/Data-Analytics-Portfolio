@@ -1,0 +1,19 @@
+WITH t_revenue AS (
+SELECT 
+DATE(DATE_TRUNC(transactions_timestamps, MONTH)) date_trx,
+location,
+status,
+SUM(total_amount) revenue
+FROM `da-labs-b4-ecommerce.b4_ecommerce_dataset.transactions` a
+LEFT JOIN`da-labs-b4-ecommerce.b4_ecommerce_dataset.sessions` b
+on a.sessions_id =b.sessions_id
+LEFT JOIN `da-labs-b4-ecommerce.b4_ecommerce_dataset.users`c
+ON b.user_id = c.user_id
+LEFT JOIN `da-labs-b4-ecommerce.b4_ecommerce_dataset.locations`d
+ON c.locations_id = d.locations_id
+GROUP BY 1,2,3
+)
+SELECT *,
+LAG(revenue)OVER(partition by location order by date_trx asc) next_month
+FROM t_revenue
+order by 2,1
