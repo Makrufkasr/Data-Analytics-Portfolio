@@ -52,12 +52,7 @@ The company asked us to analyze data and provide business recommendations based 
    
 <h4>Result</h4>
 
-1. The customer from Jan and Feb 2019 group have some months with no repurchase. It probably because they are the first user who trying our apps and much of them are dissatisfied with our product launching.
-2. There is a significant drop in the first month more than 95%. This may because customers have terrible experience at the first time.
-3. TheLook loyal customer rate is between 3-4%.
-4. The cohort size show that the user is growing month to month, from 30 total user in Jan 2019, to 5892 users in June 2022. This is showed that TheLook campaign event was successful to make higher impressions and get new users over time.
-5. The retention for the first quarter are also getting better and better. Especially in 2022, the retention is higher than 6%. This is showing that TheLook are able to solving the first time experience issue.
-6. But, there is a decreasing retention rate from the last month campaign. It may show that the campaign/ events from the last month are ineffective or having worse performance than previous campaign. Thus, TheLook better not use the last campaign for the next month
+1. on going
 
 
 | Link Dashboard	| Code 	|               Title              	|
