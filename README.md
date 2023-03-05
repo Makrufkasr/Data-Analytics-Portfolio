@@ -60,9 +60,9 @@ The company asked us to analyze data and provide business recommendations based 
 6. But, there is a decreasing retention rate from the last month campaign. It may show that the campaign/ events from the last month are ineffective or having worse performance than previous campaign. Thus, TheLook better not use the last campaign for the next month
 
 
-| Link Deck	| Code 	|               Title              	|
+| Link Dashboard	| Code 	|               Title              	|
 |:----:	|:----:	|:--------------------------------:	|
-|   [🔗](https://docs.google.com/presentation/d/1kzWW-kMGigG_iTeIUQZ7LgWPh076QGTn5N7dJlnPQss/edit?usp=sharing)  	|   [📜](https://github.com/Makrufkasr/Data-Analytics-Portfolio/blob/main/project.sql)  	|             E-Commerce Dashboaord           	|
+|   [🔗](https://lookerstudio.google.com/reporting/f5e6e336-f7f0-426b-bb0c-6ff8c8f90d52)  	|   [📜](https://github.com/Makrufkasr/Data-Analytics-Portfolio/tree/main/E-commerce%20Dashboard%20using%20Data%20studio)  	|             E-Commerce Dashboaord           	|
 
 
 ## Growth and Cohort Analysis in TheLook ECommerce
