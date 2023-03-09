@@ -211,25 +211,6 @@ Click this link below to view the full dashboard, please click the full screen i
 Skill Set : Data Cleaning, Statistic, Exploratory Data Analysis, Data Visualization
 ![image](https://user-images.githubusercontent.com/109516688/217702801-5bebfaa4-6b26-4480-8737-90994cd43809.png)
 
-<h4>Overview</h4>
-Ken Jee is someone who is passionate about data science and sports analytics. He has been working in the data science field doing sports analytics for the last 5 years. He decided to start making YouTube videos to share his experiences and help others get into the fields of data science and sports analytics. His goal is to provide insight into the data science community, career advice, and sports-related analysis. This project aims to help Ken Jee get more revenue from his channel.
-<h4>Methodology</h4>
-
-1. Understanding YouTube metrics and algorithm
-2. Cleaning dataset using spreadsheet and Python
-3. EDA by make a channel dashboard using Tableau
-4. Main problem definition and decide objective
-5. Analysis the content by data and the quality
-6. Giving recommendation and further analysis suggestion for Ken Jee’s channel
-
-<h4>Result</h4>
-
-1. Out of 15 video categories, we recommend to focus on Personal Experience, Trend, Job, Tips, Opinion, Collaboration, Tutorial, Series Collaboration
-2. Recommended word to use in Video title are 'Data Science', words related to content for beginner and curious-make words.
-3. It's best to upload 3-4 videos in a month, on Friday or Saturday
-4. The recommended video length is 8-10 minutes as videos with this group of duration generate maximum revenue
-5. Further analysis can include engagement rate
-
 
 | Link Power BI	|               Title              	|
 |:----:	|:--------------------------------:	|
