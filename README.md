@@ -5,7 +5,7 @@
 </p>
 
 ## 🌟 About Me
-an Aspiring to become Data and Business Analyst, who really loves and always learning about business, data and analysis. Numbers are my best friend for solving problems. In this modern era, data is one of the fuels used in business to compete to be the best in their field. Knowledge of problems and how to solve problems is a much-needed skill. Analysis and decisions without a database have no strong power. By combining some of the knowledge and experience I have, I can present a better solution to a problem, so I can create something new that is more effective and efficient. [link cv](https://drive.google.com/file/d/1rdHoJVjP960MRmgfeex9sTZrHWSNn9Xe/view?usp=sharing)
+An Aspiring to become Data and Business Analyst, who really loves and always learning about business, data and analysis. Numbers are my best friend for solving problems. In this modern era, data is one of the fuels used in business to compete to be the best in their field. Knowledge of problems and how to solve problems is a much-needed skill. Analysis and decisions without a database have no strong power. By combining some of the knowledge and experience I have, I can present a better solution to a problem, so I can create something new that is more effective and efficient. [link cv](https://drive.google.com/file/d/1rdHoJVjP960MRmgfeex9sTZrHWSNn9Xe/view?usp=sharing)
 
 ## Expertise
 1. SQL (Structured Query Languange)
