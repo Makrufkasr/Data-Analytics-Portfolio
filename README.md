@@ -83,9 +83,9 @@ The company asked us to analyze data and provide business recommendations based 
 Stakeholders or users can see the dashboard in real time, take insight easily and the dashboard data updates automatically
 
 
-| Link Dashboard	| Code 	|               Title              	|
+| Link Dashboard	|               Title              	|
 |:----:	|:----:	|:--------------------------------:	|
-|   [🔗](https://lookerstudio.google.com/reporting/f5e6e336-f7f0-426b-bb0c-6ff8c8f90d52)  	|   [📜](https://github.com/Makrufkasr/Data-Analytics-Portfolio/tree/main/E-commerce%20Dashboard%20using%20Data%20studio)  	|             E-Commerce Dashboaord           	|
+|   [🔗](https://lookerstudio.google.com/reporting/f5e6e336-f7f0-426b-bb0c-6ff8c8f90d52)  	|             E-Commerce Dashboaord           	|
 
 
 ## Growth and Cohort Analysis in TheLook ECommerce
