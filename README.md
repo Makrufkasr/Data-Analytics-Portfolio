@@ -54,7 +54,7 @@ The company asked us to analyze data and provide business recommendations based 
    
 <h4>Result</h4>
 
-1. on going
+Stakeholders or users can see the dashboard in real time, take insight easily and the dashboard data updates automatically
 
 
 | Link Dashboard	| Code 	|               Title              	|
