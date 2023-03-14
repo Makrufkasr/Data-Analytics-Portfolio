@@ -22,7 +22,7 @@ A bachelor of industrial engineering, who really loves and always learning about
 List of project :
 
 1. [Developing Support Dashboard For Business Performance](#developing-support-dashboard-for-business-performance)
-2. [Marketing Campaign using A/B testing]
+2. [Marketing Campaign using A/B testing](https://github.com/Makrufkasr/Data-Analytics-Portfolio/blob/main/Marketing_Campaigns_A_B_Testing.ipynb)
 2. [Growth and Cohort Analysis in TheLook E-Commerce](#growth-and-cohort-analysis-in-thelook-ecommerce) 
 3. [Clustering Customer Segmentation the Indonesian Investment Platform](#clustering-customer-segmentation-the-indonesian-investment-platform)
 4. [Youtube Kenjee Perfomace Analytics](#youtube-kenjee-perfomace-analytics)
