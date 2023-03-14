@@ -21,7 +21,8 @@ A bachelor of industrial engineering, who really loves and always learning about
 ## 📚 Table of Contents
 List of project :
 
-1. [Developing Support Dashboard For Business Performance](#developing-support-dashboard-for-business-performance) 
+1. [Developing Support Dashboard For Business Performance](#developing-support-dashboard-for-business-performance)
+2. [Marketing Campaign using A/B testing]
 2. [Growth and Cohort Analysis in TheLook E-Commerce](#growth-and-cohort-analysis-in-thelook-ecommerce) 
 3. [Clustering Customer Segmentation the Indonesian Investment Platform](#clustering-customer-segmentation-the-indonesian-investment-platform)
 4. [Youtube Kenjee Perfomace Analytics](#youtube-kenjee-perfomace-analytics)
@@ -30,6 +31,7 @@ List of project :
 7. [Covid Vaccinations World Progress (Tableau)](#covid-vaccinations-world-progress)
 8. [Sales Perfomance Dashboard (Power BI)](#sales-perfomance-dashboard)
 9. [Customers reviews AirBnb (Data Studio)](#customer-reviews-airbnb)
+
 
 <br>
 
