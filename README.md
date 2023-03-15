@@ -84,7 +84,7 @@ Stakeholders or users can see the dashboard in real time, take insight easily an
 
 
 | Link Dashboard	|               Title              	|
-|:----:	|:----:	|:--------------------------------:	|
+|:----:	|:--------------------------------:	|
 |   [🔗](https://lookerstudio.google.com/reporting/f5e6e336-f7f0-426b-bb0c-6ff8c8f90d52)  	|             E-Commerce Dashboaord           	|
 
 
