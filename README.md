@@ -34,34 +34,6 @@ List of project :
 8. [Sales Perfomance Dashboard (Power BI)](#sales-perfomance-dashboard)
 9. [Customers reviews AirBnb (Data Studio)](#customer-reviews-airbnb)
 
-## Utilizing Customer Data to Supporting development better of Marketing Strategy
-Skill Set : Data Analysis, Root Cause Analysis, Data Visualization
-![Utilizing Customer Data to Supporting development better of Marketing Strategy](https://user-images.githubusercontent.com/109516688/224909563-29823766-6cf2-41ba-a6d2-2ef0e4975a0d.png)
-
-<h4>Project Objectives</h4>
-The e-commerce stakeholder wants to evaluate the marketing strategy, get recommendations based on existing data, and grow in the next year. 
-
-<h4>Methodology</h4>
-
-1. Define Problem statement
-2. Objective
-3. Build Root Cause Analysis
-4. Give Recommendations
-   
-<h4>Result</h4>
-Based on result analysis in this case we can give some recommedations :
-
-1. We can analyze behaviour our customer using customer segmentation Recency, Frequency and Monetary
-2. Further analysis we can do impact analysis to know about the result after applying our strategy
-3. If we have done customer segmentation, we can decide to campaign to our customers, but before we decide to campaign to our customers, we can do the campaign in a cost-efficient by using cost benefit analysis by seeing which customers are inactive or possibility to churn.
-
-
-
-| Link Deck	|               Title              	|
-|:----:	|:--------------------------------:	|
-|   [🔗](https://docs.google.com/presentation/d/1FptnT9bfelyK3bpNQjrFseB1v21yanqnuOxMp9y2Fds/edit?usp=sharing)  	|             Utilizing Customer Data to Supporting development better of Marketing Strategy           	|
-<br>
-
 ## Developing Support Dashboard For Business Performance
 Skill Set : Data Studio(Looker), Big Query, SQL (Standard Query Syntax, Aggregate Functions, Joins Functions, Data Type Functions, Date Format Functions, Window Functions)
 ![image](https://user-images.githubusercontent.com/109516688/222958617-cf3303b7-f223-4b10-9de1-f5e0e800b3bd.png)
